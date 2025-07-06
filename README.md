@@ -1,4 +1,4 @@
-👋 Hi, I'm Mahadin!<br>
+###👋 Hi, I'm Mahadin!<br>
 🧠 CS Student at **Sejong University**, South Korea  <br>🔭 Currently diving deep into **AI, Data Structures & Cybersecurity**    <br>🌱 Learning in public to document my growth & help others do the same  <br>
 
 
