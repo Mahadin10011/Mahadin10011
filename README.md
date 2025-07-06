@@ -1,5 +1,5 @@
 👋 Hi, I'm Mahadin!<br>
-🧠 CS Student at **Sejong University**, South Korea  <br>🔭 Currently diving deep into **AI, Data Structures & Cybersecurity**    <br>🌱 Learning in public to document my growth & help others do the same  <br><br>> “Don’t vibe code. Build, break, learn, repeat.”<br>
+🧠 CS Student at **Sejong University**, South Korea  <br>🔭 Currently diving deep into **AI, Data Structures & Cybersecurity**    <br>🌱 Learning in public to document my growth & help others do the same  <br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mahadin10011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### <br>> “Don’t vibe code. Build, break, learn, repeat.”<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
