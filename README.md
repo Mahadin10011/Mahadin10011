@@ -21,19 +21,4 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahadin10011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahadin10011&theme=radical&no-frame=false&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
