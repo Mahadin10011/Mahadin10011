@@ -2,9 +2,6 @@
 🧠 CS Student at <b>Sejong University</b>, South Korea  <br>🔭 Currently diving deep into <b>AI, Data Structures & Cybersecurity</b>    <br>🌱 Learning in public to document my growth & help others do the same  <br>
  <br> “Don’t vibe code. Build, break, learn, repeat.”<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahad1n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadin-hossain-a6b465278)
-
 ## 💻 Tech Stack:
 
 <p align="left">
